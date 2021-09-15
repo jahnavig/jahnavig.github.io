@@ -1,2 +1,2 @@
 # jahnavig.github.io
-Website for Nihal's Student life
+A bundle of joys
